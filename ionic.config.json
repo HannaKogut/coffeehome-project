@@ -1,0 +1,7 @@
+{
+  "name": "coffeehome",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
